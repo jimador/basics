@@ -19,3 +19,14 @@ Git ignore file for common:
 
   * On OSX, the file name should be changed to `idea64.vmoptions`. 
   * `.vmoptions` file is found at: `/path/to/intellij/bin`
+  * it's also accessible from the help menu if you don't have one.
+
+
+###[code-style](https://github.com/jimador/dotfiles/blob/master/code-style.xml)
+
+code style for IntelliJ. Preferences -> Editor -> Code Style -> General -> import
+
+###[.editorconfig](https://github.com/jimador/dotfiles/blob/master/.editorconfig)
+
+simple .editorconfig
+
